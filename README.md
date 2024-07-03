@@ -3,7 +3,7 @@ Installation Instructions
 Setting up Express (Node.js Backend)
 
 Navigate to the Express App:
-cd express-app
+cd server
 
 Install Dependencies:
 npm install
@@ -15,7 +15,7 @@ npm run dev
 ## Setting up React (Frontend)
 
 Navigate to the React App:
-cd react-app
+cd client-web
 
 Install Dependencies:
 npm install
@@ -27,7 +27,7 @@ npm run dev
 ## Setting up React Native (Mobile App)
 
 Navigate to the React Native App:
-cd react-native-app
+cd client-mobile
 
 Install Dependencies:
 npm install
