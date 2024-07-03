@@ -9,7 +9,7 @@ Install Dependencies:
 npm install
 
 Run the Express Server:
-npm run dev
+node server.js
 
 
 ## Setting up React (Frontend)
